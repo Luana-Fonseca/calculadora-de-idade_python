@@ -5,8 +5,11 @@ O programa permite calcular a idade de uma pessoa em anos, meses e dias, a parti
 ### 🚀 Funcionalidades
 
 ✔️ Interface gráfica intuitiva
+
 ✔️ Seleção de datas pelo calendário interativo
+
 ✔️ Cálculo preciso da idade em anos, meses e dias
+
 ✔️ Exibição clara dos resultados na tela
 
 ### 🛠️ Tecnologias utilizadas
